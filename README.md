@@ -3,7 +3,7 @@ Script per il download di file RAR da MediaFire
 
 # Utilizzo
    1) Scaricare e inserire il file nella cartella in cui si desidera scaricare i file rar;
-   2) Creare un file .txt contenente tutti i link (uno per riga) della pagina di download di mediafire;
+   2) Creare un file .txt contenente tutti i link (uno per riga) alle pagine di download di mediafire desiderate;
    3) Sostituire il path del file contenente i link con quello del file da voi appena creato;
    4) Avviare lo script e attendere che si concluda.
    
